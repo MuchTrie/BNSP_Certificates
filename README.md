@@ -9,7 +9,7 @@
 ---
 
 ## 📜 Daftar Sertifikat
-</n+---
+</n+--->
 ### 🛡️ Junior Cyber Security
 <a href="MuchTrieHarnanto_BNSP_JuniorCyberSecurity.pdf">MuchTrieHarnanto_BNSP_JuniorCyberSecurity.pdf</a>
 <br>
